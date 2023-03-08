@@ -2,3 +2,4 @@ venv/
 archivos/
 bin/*
 include/
+lib/python3.10/site-packages
