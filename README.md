@@ -1,2 +1,5 @@
-# curso_python_intermedio
-Clases del Curso Python Intermedio de Platzi
+Clases del Curso Python Intermedio
+
+Este repo contiene todos los ejercicios del curso de Python Intermedio de Platzi.
+
+Diego Coral.
